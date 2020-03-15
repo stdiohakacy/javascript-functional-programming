@@ -1,0 +1,12 @@
+{
+    'Duy': [
+        {name : 'Name01', price: '80', quantity: '2'},
+        {name : 'Name02', price: '200', quantity: '1'},
+        {name : 'Name03', price: '10', quantity: '4'}
+    ],
+    'Tieu': [
+        {name : 'Name04', price: '80', quantity: '1'},
+        {name : 'Name05', price: '10', quantity: '2'},
+        {name : 'Name06', price: '20', quantity: '3'}
+    ]
+}
